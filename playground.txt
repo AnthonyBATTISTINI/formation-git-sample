@@ -1,3 +1,7 @@
 formation git
 
 type de commande
+
+without staging
+
+amend commit
