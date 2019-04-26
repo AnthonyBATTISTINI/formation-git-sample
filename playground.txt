@@ -9,3 +9,6 @@ amend commit
 checkout
 
 master
+
+
+rebase
