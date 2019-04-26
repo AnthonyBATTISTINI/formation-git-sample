@@ -5,3 +5,5 @@ type de commande
 without staging
 
 amend commit
+
+checkout
